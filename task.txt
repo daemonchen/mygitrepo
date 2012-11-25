@@ -1,0 +1,4 @@
+作业在github上
+https://github.com/daemonchen/mygitrepo
+
+wordtest路径内
